@@ -1,0 +1,54 @@
+.image {
+    width: 500px;
+    height: 300px;
+    display: flex;
+    border-radius: 5px;
+    border-color: cornsilk;
+    padding-top: auto;
+}
+
+.icons {
+    display: flex;
+    color: white;
+    flex-direction: column;
+}
+
+.qualification {
+    display: flex;
+}
+
+.button {
+    margin: auto;
+    height: auto;
+    width: 60%;
+    text-align: center;
+}
+
+.form {
+    background-image: url('https://entrackr.com/storage/2022/06/One-impression.jpg');
+    background-position: 50%;
+    backface-visibility: 100%;
+    opacity: 100%;
+    text-align: justify;
+    image-resolution: 1080px;
+}
+
+.total {
+    margin: auto;
+    color: white;
+}
+
+.form-control {
+    opacity: 50%;
+}
+
+.content {
+    background-image: url('https://images.prismic.io//intuzwebsite/d394de11-2b7f-4a72-a3e0-c876f7356a40_Main.png?w=1200&q=75&auto=format,compress&fm=png8');
+    background-repeat: repeat;
+    background-size: 100%;
+}
+
+.portfolio {
+    background-color: aliceblue;
+    text-decoration: dashed;
+}
